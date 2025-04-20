@@ -1167,6 +1167,7 @@ footer .footer .footer__list-item a {
   line-height: 1;
   text-decoration: none;
   display: inline-flex;
+  margin-top: 20px;
   border: none;
   cursor: pointer;
   align-items: center;
